@@ -1,6 +1,6 @@
 package com.rodriguesdelima.mauricio.heranca.parte02;
 
-public class Tecnico extends Aluno {
+public final class Tecnico extends Aluno {
     // Atributo
     private int registroProfissional;
 

@@ -1,6 +1,6 @@
 package com.rodriguesdelima.mauricio.heranca.parte02;
 
-public class Bolsista extends Aluno {
+public final class Bolsista extends Aluno {
     private float bolsa;
 
     public void renovarBolsa(){
